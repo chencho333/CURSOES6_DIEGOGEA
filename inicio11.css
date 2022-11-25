@@ -1,0 +1,18 @@
+/*
+    Autor: Diego Gea Asensio
+    Fecha: 18/11/2022
+*/
+
+body{
+    text-align: center;
+    margin: auto;
+    padding: 20px;
+    background-color: rgb(164, 136, 92);  
+}
+
+.amarillo{
+    margin: auto;
+    width: 50%;
+    padding: auto;
+    background-color: rgb(248, 217, 177); 
+}
